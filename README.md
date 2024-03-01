@@ -1,5 +1,6 @@
 # CS-465
 CS-465 SNHU
+
 Architecture
 
 In our full-stack project, we seamlessly integrated various technologies to create a dynamic and responsive web application. The client-facing side heavily leveraged HTML, JavaScript, and CSS to provide a user-friendly interface. HTML structured the content, while JavaScript added interactivity and CSS ensured an appealing visual presentation. Node.js played a crucial role on both the client and server sides, facilitating server-side JavaScript execution.
