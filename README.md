@@ -18,6 +18,7 @@ Testing
 Testing APIs in your app is a puzzle involving HTTP methods (like GET or POST) deciding what your app does with data, and endpoints acting like addresses for specific tasks. Security is the guardian, with logins, encryption (HTTPS), and secret codes (API tokens) ensuring only the right users access your app. Rate limiting prevents overuse, and headers provide extra layers of safety. Testing this mix guarantees your app not only functions smoothly but also stands resilient against potential threats, securing it thoroughly.
 
 Reflection
+
 This course has helped me reach my goals by teaching me another facet of software development. I believe the more exporsure I get the better idea I will have of what avenue of software development I will choose in the world. I have learned full stack basics and function, while I believe I have much more work to do to improve I do have a grasp of the basics. This will make me more marketable because I have experience in the front end and back end which just knowing how they work together can help even if you ultimately choose one or the other.
 
 
